@@ -97,3 +97,16 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/AI_powered_smart_dustbin.git
+```
+
+
+
+If you want, I can also give you a **🔥 much more impressive GitHub README** with:
+
+- **GitHub badges**
+- **AI model accuracy section**
+- **architecture diagram**
+- **demo GIF section**
+- **screenshots layout**
+
+That version looks **10× better for recruiters and GitHub portfolios.**
